@@ -7,7 +7,7 @@ Epoch: 1
 
 Name: pentaho-libxml
 Version: 1.1.3
-Release: 10.2
+Release: 10.3
 Summary: Namespace aware SAX-Parser utility library
 License: LGPLv2
 
