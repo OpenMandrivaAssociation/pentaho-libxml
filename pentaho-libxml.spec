@@ -16,8 +16,8 @@ License: LGPLv2
 #to simplify the licensing
 Source: %{origname}-%{version}-jarsdeleted.zip
 URL: http://reporting.pentaho.org/
-BuildRequires: ant, ant-contrib, java-devel, jpackage-utils, libbase, libloader
-Requires: java, jpackage-utils, libbase >= 1.1.2, libloader >= 1.1.2
+BuildRequires: ant, ant-contrib, java-devel, javapackages-utils, libbase, libloader
+Requires: java, javapackages-utils, libbase >= 1.1.2, libloader >= 1.1.2
 BuildArch: noarch
 Patch0: libxml-1.1.2-build.patch
 
